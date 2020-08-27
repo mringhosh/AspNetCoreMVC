@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/MVCCoreApp/.vs/MVCCoreApp/v16
+/MVCCoreApp/MVCCoreApp/obj
